@@ -1,0 +1,73 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "hi!",
+      "id": 3
+    },
+    {
+      "content": "wazzup -_-",
+      "id": 4
+    },
+    {
+      "content": "plz work",
+      "id": 5
+    },
+    {
+      "content": "kk",
+      "id": 6
+    },
+    {
+      "content": "welp",
+      "id": 7
+    },
+    {
+      "content": "ok ig",
+      "id": 8
+    },
+    {
+      "content": "fine",
+      "id": 9
+    },
+    {
+      "content": "k",
+      "id": 10
+    },
+    {
+      "content": "work!!!",
+      "id": 11
+    },
+    {
+      "content": "yesss",
+      "id": 12
+    },
+    {
+      "content": "thx",
+      "id": 13
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "Maksim Yin",
+      "number": "123-456-7890",
+      "id": 3
+    }
+  ]
+}
